@@ -17,9 +17,6 @@
   },
   "homepage": "https://github.com/theresaanna/politech-exercise#readme",
   "dependencies": {
-    "create-react-app": "^3.0.1",
-    "react": "^16.8.6",
-    "redux": "^4.0.4",
-    "src": "^1.1.2"
+    "react-app": "^1.1.2"
   }
 }
