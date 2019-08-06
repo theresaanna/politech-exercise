@@ -1,0 +1,23 @@
+{
+  "name": "politech-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theresaanna/politech-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theresaanna/politech-exercise/issues"
+  },
+  "homepage": "https://github.com/theresaanna/politech-exercise#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "redux": "^4.0.4"
+  }
+}
