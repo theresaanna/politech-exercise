@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { keys } from './global_vars';
+import { keys } from './api_keys';
 
 function App() {
   return (
